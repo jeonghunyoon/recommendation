@@ -1,2 +1,2 @@
 # Recommendation
-추천 시스템 논문 정리
+추천 시스템 연구
